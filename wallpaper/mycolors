@@ -1,0 +1,37 @@
+gray1 = "#1a1e24"
+gray2 = "#22272f"
+gray3 = "#303841"
+gray4 = "#5e6770"
+gray5 = "#85888c"
+
+abstract1 1 = "#6875f5"
+abstract1 2 = "#0c09f0"
+abstract1 3 = "#c076f3"
+abstract1 4 = "#1e9ad6"
+
+abstract3 1 = "#022164"
+abstract3 2 = "#74e8a6"
+abstract3 3 = "#e55535"
+abstract3 4 = "#fadbd9"
+
+abstract5 1 = "#f0756d"
+abstract5 2 = "#d16a6e"
+abstract5 3 = "#865767"
+abstract5 4 = "#f49569"
+abstract5 5 = "#ca6d5c"
+abstract5 6 = "#727473"
+
+abstract6 1 = "#78437b"
+
+abstract7 1 = "#797979"
+abstract7 2 = "#c9c9c9"
+abstract7 3 = "#9f4fff"
+abstract7 4 = "#d3b1fe"
+abstract7 5 = "#01c2b4"
+abstract7 6 = "#97e8e2"
+abstract7 7 = "#fe564b"
+abstract7 8 = "#feb8b6"
+abstract7 9 = "#28c0ff"
+abstract7 10 = "#b7eaff"
+
+
